@@ -4,3 +4,5 @@ How are you?
 My name is Shruti.
 
 What is your name?
+
+What is your age?
