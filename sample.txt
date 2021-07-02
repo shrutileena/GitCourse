@@ -6,3 +6,5 @@ My name is Shruti.
 What is your name?
 
 What is your Hobby?
+
+What is your age?
